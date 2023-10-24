@@ -4,7 +4,7 @@ I'm Jean, and I have been programming since 2017, when I was 14 years old.
 
 #### Journey
 
-I started because a creator I followed had this brilliant idea of creating a website with some riddles to which the answers were hiddenly spread throughout his videos ([here](https://www.youtube.com/watch?v=8FzyVH6FnGk)'s the one in which he reveals and solves them); I found that absolutely genius and decided that I would try to do something similar, with some adaptations here and there to make it mine. From there, it was HTML, CSS and JavaScript, then it scalated to Python, and, finally, Android with Java and Kotlin, which is what I chose to primarily continue doing to this day.
+I started because a creator I followed had this brilliant idea of creating a website with some riddles to which the answers were hiddenly spread throughout his videos ([here](https://www.youtube.com/watch?v=8FzyVH6FnGk)'s the one in which he reveals and solves them); I found that absolutely genius and decided that I would try to do something similar, with some adaptations here and there to make it mine. From there, it was HTML, CSS and JavaScript, then it escalated to Python, and, finally, Android with Java and Kotlin, which is what I chose to primarily continue doing to this day.
 
 I've learned almost everything that I know on my own, which, although sometimes challeging, is my favorite method of obtaining knowledge. Fortunately, I've also documented some of my process when I was still in the early stages of learning software development, and the videos can be found in [my YouTube channel](https://www.youtube.com/@jeanbarrossilva) (not that active nowadays) or you can check them out by clicking on one of the cards below:
 
