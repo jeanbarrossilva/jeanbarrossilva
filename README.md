@@ -14,7 +14,7 @@ I've learned almost everything that I know on my own, which, although sometimes 
 
 #### Current work
 
-<img align="left" src="https://github.com/jeanbarrossilva/jeanbarrossilva/assets/38408390/4029ae3b-f5ab-47bb-b99c-8c96a129ec37" width="140" />
+<img align="left" src="https://github.com/jeanbarrossilva/jeanbarrossilva/assets/38408390/4029ae3b-f5ab-47bb-b99c-8c96a129ec37" width="150" />
 
 
 I've been developing a [Mastodon](https://joinmastodon.org) Android client named Orca, that contains all the functionality a social network app normally has (authorization and authentication, reading and creating posts, search, account and term muting, etc) while offering the best experience the user could have, with a beautifully designed UI. Combined to that, on the development side, it is totally modularized, having its core-level layers totally decoupled from the actual platform-specific code, and also counts with various tests that cover almost the entire application.
