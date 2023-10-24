@@ -6,9 +6,9 @@ I'm Jean, and I have been programming since 2017, when I was 14 years old.
 
 I started because a creator I followed had this brilliant idea of creating a website with some puzzles to which the answers were hiddenly spread throughout his videos ([here](https://www.youtube.com/watch?v=8FzyVH6FnGk)'s the one in which he reveals and solves them); I found that absolutely genius and decided that I would try to do something similar, with some adaptations here and there to make it mine. From there, it was HTML, CSS and JavaScript, then it scalated to Python, and, finally, Android with Java and Kotlin, which is what I chose to primarily continue doing to this day.
 
-[<img align="left" src="https://github.com/jeanbarrossilva/jeanbarrossilva/assets/38408390/2ba035ef-8af0-4c5f-985f-f7db01caad1a" width="250" />](https://www.youtube.com/watch?v=xRD9LdpxYI4)
-[<img src="https://github.com/jeanbarrossilva/jeanbarrossilva/assets/38408390/461e477a-b44d-4ca4-abc5-0d193d31eb11" width="250" />](https://www.youtube.com/watch?v=-wNJTEHWwkE)
-[<img align="right" src="https://github.com/jeanbarrossilva/jeanbarrossilva/assets/38408390/8295e9ca-5397-4c2f-9ba4-a8fd6456a735" width="250" />](https://www.youtube.com/watch?v=HFVrgQfRYbg)
+[<img align="left" src="https://github.com/jeanbarrossilva/jeanbarrossilva/assets/38408390/2ba035ef-8af0-4c5f-985f-f7db01caad1a" width="270" />](https://www.youtube.com/watch?v=xRD9LdpxYI4)
+[<img src="https://github.com/jeanbarrossilva/jeanbarrossilva/assets/38408390/461e477a-b44d-4ca4-abc5-0d193d31eb11" width="270" />](https://www.youtube.com/watch?v=-wNJTEHWwkE)
+[<img align="right" src="https://github.com/jeanbarrossilva/jeanbarrossilva/assets/38408390/8295e9ca-5397-4c2f-9ba4-a8fd6456a735" width="270" />](https://www.youtube.com/watch?v=HFVrgQfRYbg)
 
 I've learned almost everything that I know by on own, which, although sometimes challeging, is my favorite method of obtaining knowledge. Fortunately, I've also documented some of my process when I was still in the early stages of learning software development, and the videos can be found in [my YouTube channel](https://www.youtube.com/@jeanbarrossilva) (not that active nowadays) or you can watch them by clicking on one of the following cards.
 
