@@ -10,7 +10,7 @@ I started because a creator I followed had this brilliant idea of creating a web
 [<img src="https://github.com/jeanbarrossilva/jeanbarrossilva/assets/38408390/461e477a-b44d-4ca4-abc5-0d193d31eb11" width="265" />](https://www.youtube.com/watch?v=-wNJTEHWwkE)
 [<img align="right" src="https://github.com/jeanbarrossilva/jeanbarrossilva/assets/38408390/8295e9ca-5397-4c2f-9ba4-a8fd6456a735" width="265" />](https://www.youtube.com/watch?v=HFVrgQfRYbg)
 
-I've learned almost everything that I know by on own, which, although sometimes challeging, is my favorite method of obtaining knowledge. Fortunately, I've also documented some of my process when I was still in the early stages of learning software development, and the videos can be found in [my YouTube channel](https://www.youtube.com/@jeanbarrossilva) (not that active nowadays) or you can watch them by clicking on one of the following cards.
+I've learned almost everything that I know on own, which, although sometimes challeging, is my favorite method of obtaining knowledge. Fortunately, I've also documented some of my process when I was still in the early stages of learning software development, and the videos can be found in [my YouTube channel](https://www.youtube.com/@jeanbarrossilva) (not that active nowadays) or you can watch them by clicking on one of the following cards.
 
 #### Current work
 
