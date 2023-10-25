@@ -19,7 +19,7 @@ I've learned almost everything that I know on my own, which, although sometimes 
 
 I've been developing a [Mastodon](https://joinmastodon.org) Android client named Orca, that contains all the functionality a social network app normally has (authorization and authentication, reading and creating posts, search, account and term muting, etc) while offering the best experience the user could have, with a beautifully designed UI. Combined to that, on the development side, it is totally modularized, having its core-level layers totally decoupled from the actual platform-specific code, and also counts with various tests that cover almost the entire application.
 
-It is open source and its repository can be found [here](https://github.com/jeanbarrossilva/Orca); contributions are much appreciated!
+It is open source and its repository can be found [here](https://github.com/jeanbarrossilva/Orca); contributions to it or any other project are much appreciated!
 
 <div align="center">
   <img src="https://github.com/jeanbarrossilva/jeanbarrossilva/assets/38408390/18154859-161c-4e4a-82a9-d71718261a3c" width="205" />
