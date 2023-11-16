@@ -22,8 +22,8 @@ I've been developing a [Mastodon](https://joinmastodon.org) Android client named
 It is open source and its repository can be found [here](https://github.com/jeanbarrossilva/Orca); contributions to it or any other project are much appreciated!
 
 <div align="center">
-  <img src="https://github.com/jeanbarrossilva/jeanbarrossilva/assets/38408390/18154859-161c-4e4a-82a9-d71718261a3c" width="205" />
-  <img src="https://github.com/jeanbarrossilva/jeanbarrossilva/assets/38408390/9d928dd4-c11b-49ee-ac8c-9167613f3702" width="205" />
-  <img src="https://github.com/jeanbarrossilva/jeanbarrossilva/assets/38408390/beb63c21-1cbb-48b7-b943-f5283b83d643" width="205" />
-  <img src="https://github.com/jeanbarrossilva/jeanbarrossilva/assets/38408390/3d63127e-7c28-4765-bc91-b0d32fa194a7" width="205" />
+  <img src="https://github.com/jeanbarrossilva/jeanbarrossilva/assets/38408390/cbf486bd-34f3-4db4-87db-dd03b884a73d" width="205" />
+  <img src="https://github.com/jeanbarrossilva/jeanbarrossilva/assets/38408390/61db1de7-2ba1-4d83-a6e2-81607aefead8" width="205" />
+  <img src="https://github.com/jeanbarrossilva/jeanbarrossilva/assets/38408390/f91e10bd-cde3-47bd-822e-7af5bf6d15ba" width="205" />
+  <img src="https://github.com/jeanbarrossilva/jeanbarrossilva/assets/38408390/053833c0-05a7-44c0-ae5c-32ba61bc2de7" width="205" />
 </div>
